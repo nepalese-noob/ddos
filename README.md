@@ -35,5 +35,7 @@ Now open terminal there
 And clone our tool by
 
 *. https://github.com/nepalese-noob/ddos
+
 *. cd ddos
+
 *. python3 jam.py
